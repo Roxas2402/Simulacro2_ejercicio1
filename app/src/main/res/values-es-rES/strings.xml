@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulacro2_ejercicio1</string>
+    <string name="num_cigarros">"Cigarros restantes: "</string>
+    <string name="dinero_ahorrado">"Dinero Ahorrado: "</string>
+    <string name="fumar">Fumar</string>
+</resources>
